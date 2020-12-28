@@ -75,10 +75,7 @@ span.population {
 
 @media only screen and (max-width:600px){
   .search{
-    font-size: 45px;
+    font-size: 20px;
   }
   
-  .suggestions li{
-    font-size: 25px;
-  }
 }
