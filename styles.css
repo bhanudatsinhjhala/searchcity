@@ -72,3 +72,13 @@ span.population {
 .hl{
   background: #ffc600;
 }
+
+@media only screen and (max-width:600px){
+  .search{
+    font-size: 70px;
+  }
+  
+  .suggestions li{
+    font-size: 30px;
+  }
+}
